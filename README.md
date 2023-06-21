@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**1b76718373/1b76718373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack:
 
-Here are some ideas to get you started:
+- Backend: Java8, Spring MVC, Spring Boot, Hibernate, Restful Services, Microservices
+- Frontend: HTML5, CSS3, Jquery
+- Database: Oracle Sql, MySql
+- Build tools: Maven
+- Servers: Tomcat
+- Cloud: AWS
+- Version Control: Git
+- Prototyping: JustInMind
+- IDE: Intellij IDEA, VS Code, Eclips, Netbeans
+- Operating System: Linux, Mac, Windows
+- Project Management:Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soft Skills:
+
+- Problem Solving, TeamWork, Communication
+
+- Hooooooooooooooooooo 
